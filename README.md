@@ -1,1 +1,2 @@
-# -holistic_data_science_project_2.2
+# Holistic Data Science Project -part 2- version2.2
+Improved EDA than version 2.2 
